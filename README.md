@@ -1,3 +1,5 @@
+#RESTFUL API
+In this project, we developed an API to handle POST and GET requests in a hotel management system. We will be using Flask and should ensure that flask is running when testing the API. We will use either postman or insomnia when testing the endpoints. 
 Use the attached description to create a RESTful application that uses JSON as primary Representation Format. Once
 a client places a booking via REST he/she can be assured that the order has been
 received and accepted by the Hotel The booking details are
